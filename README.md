@@ -1,0 +1,2 @@
+# rapidobuscar
+buscar rapido
