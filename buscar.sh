@@ -46,7 +46,7 @@ echo "4 – Carpeta personalizada"
 read opcion
 case $opcion in
 1)
-path=$/data/data/com.termux/files/home
+path=/data/data/com.termux/files/home
 ;;
 2)
 path=$PWD
